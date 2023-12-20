@@ -1,4 +1,4 @@
-# Bitcoin-Price-Prediction-
+# Bitcoin-Price-Prediction
 
 In the ever-fluctuating landscape of cryptocurrency, predicting Bitcoin prices has emerged
 
